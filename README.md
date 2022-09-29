@@ -4,7 +4,7 @@
 
 - 👩‍🎓 Currently pursuing B.Tech degree in IT from IIIT Lucknow
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React **
 
 - 💬 Ask me about **css,js,cp**
 
