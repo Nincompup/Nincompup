@@ -4,7 +4,7 @@
 
 - 👩‍🎓 Currently pursuing B.Tech degree in IT from IIIT Lucknow
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **css,js,cp**
 
