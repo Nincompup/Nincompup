@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Om Lokhande</h1>
-<h3 align="center">A Passionate Frontend Developer And Coder</h3>
+<h3 align="center">A Passionate Full-stack Developer And Coder</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 👩‍🎓 Currently pursuing B.Tech degree in IT from IIIT Lucknow
