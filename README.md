@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/om lokhande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om lokhande" height="30" width="40" /></a>
 <a href="https://instagram.com/_lokhandeom07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lokhandeom07_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mr_jaadugar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nincompup" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ngl_haha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nincompup" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nincompup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nincompup" height="30" width="40" /></a>
 </p>
 
